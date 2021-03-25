@@ -1,0 +1,8 @@
+D:\my Dev\c-sharp\DotNetVersionChecker\DotNetVersionChecker\DotNetVersionChecker\bin\Release\DotNetVersionChecker.exe.config
+D:\my Dev\c-sharp\DotNetVersionChecker\DotNetVersionChecker\DotNetVersionChecker\bin\Release\DotNetVersionChecker.exe
+D:\my Dev\c-sharp\DotNetVersionChecker\DotNetVersionChecker\DotNetVersionChecker\bin\Release\DotNetVersionChecker.pdb
+D:\my Dev\c-sharp\DotNetVersionChecker\DotNetVersionChecker\DotNetVersionChecker\obj\Release\DotNetVersionChecker.frmMain.resources
+D:\my Dev\c-sharp\DotNetVersionChecker\DotNetVersionChecker\DotNetVersionChecker\obj\Release\DotNetVersionChecker.Properties.Resources.resources
+D:\my Dev\c-sharp\DotNetVersionChecker\DotNetVersionChecker\DotNetVersionChecker\obj\Release\DotNetVersionChecker.csproj.GenerateResource.cache
+D:\my Dev\c-sharp\DotNetVersionChecker\DotNetVersionChecker\DotNetVersionChecker\obj\Release\DotNetVersionChecker.exe
+D:\my Dev\c-sharp\DotNetVersionChecker\DotNetVersionChecker\DotNetVersionChecker\obj\Release\DotNetVersionChecker.pdb
